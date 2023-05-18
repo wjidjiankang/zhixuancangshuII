@@ -1,0 +1,9 @@
+{
+    "typescript.tsdk": "",
+    "python.terminal.executeInFileDir": true,
+    "python.linting.enabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "yapf",
+    "python.pythonPath": "D:/Python/Python37/python.exe",
+    "python.linting.pylintArgs": ["--generate-members"]
+}
